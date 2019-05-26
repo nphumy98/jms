@@ -40,19 +40,12 @@ public class MessageTypesDemo {
 //			mapMessage.setBoolean("isCreditAvailable", true);
 //			producer.send(queue, mapMessage);
 
-//			ObjectMessage objectMessage= jmsContext.createObjectMessage();
-//			Patient patient= new Patient();
-//			patient.setId(123);
-//			patient.setName("John");
-//			objectMessage.setObject(patient);
-//			producer.send(queue, objectMessage);
-			
-			
-			//this way sent is without header
+			ObjectMessage objectMessage= jmsContext.createObjectMessage();
 			Patient patient= new Patient();
 			patient.setId(123);
 			patient.setName("John");
-			producer.send(queue, patient);
+			objectMessage.setObject(patient);
+			producer.send(queue, objectMessage);
 			
 			
 			
@@ -68,14 +61,10 @@ public class MessageTypesDemo {
 //			MapMessage messageReceived= (MapMessage)jmsContext.createConsumer(queue).receive(5000);
 //			System.out.println(messageReceived.getBoolean("isCreditAvailable"));
 			
-//			ObjectMessage messageReceived=(ObjectMessage)jmsContext.createConsumer(queue).receive(5000);
-//			Patient object= (Patient) messageReceived.getObject();
-//			System.out.println(object.getId());
-//			System.out.println(object.getName());
-			
-			Patient messageReceived=jmsContext.createConsumer(queue).receiveBody(Patient.class);
-			System.out.println(messageReceived.getId());
-			System.out.println(messageReceived.getName());
+			ObjectMessage messageReceived=(ObjectMessage)jmsContext.createConsumer(queue).receive(5000);
+			Patient object= (Patient) messageReceived.getObject();
+			System.out.println(object.getId());
+			System.out.println(object.getName());
 			
 		}
 	}

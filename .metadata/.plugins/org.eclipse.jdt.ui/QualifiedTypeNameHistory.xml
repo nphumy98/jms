@@ -14,11 +14,18 @@
 <fullyQualifiedTypeName name="javax.jms.Queue"/>
 <fullyQualifiedTypeName name="org.apache.activemq.artemis.jms.client.ActiveMQConnectionFactory"/>
 <fullyQualifiedTypeName name="javax.jms.JMSContext"/>
-<fullyQualifiedTypeName name="javax.jms.JMSProducer"/>
 <fullyQualifiedTypeName name="javax.jms.JMSConsumer"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
-<fullyQualifiedTypeName name="javax.jms.Message"/>
 <fullyQualifiedTypeName name="javax.naming.NamingException"/>
 <fullyQualifiedTypeName name="javax.jms.TextMessage"/>
 <fullyQualifiedTypeName name="javax.jms.TemporaryQueue"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="javax.jms.JMSProducer"/>
+<fullyQualifiedTypeName name="javax.jms.Message"/>
+<fullyQualifiedTypeName name="javax.jms.BytesMessage"/>
+<fullyQualifiedTypeName name="javax.jms.StreamMessage"/>
+<fullyQualifiedTypeName name="javax.jms.MapMessage"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="javax.jms.ObjectMessage"/>
 </qualifiedTypeNameHistroy>

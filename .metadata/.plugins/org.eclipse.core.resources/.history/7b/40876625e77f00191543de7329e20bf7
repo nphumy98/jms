@@ -47,8 +47,6 @@ public class MessageTypesDemo {
 //			objectMessage.setObject(patient);
 //			producer.send(queue, objectMessage);
 			
-			
-			//this way sent is without header
 			Patient patient= new Patient();
 			patient.setId(123);
 			patient.setName("John");
