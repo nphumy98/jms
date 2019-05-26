@@ -1,0 +1,10 @@
+package com.bharath.jms.jmsfundamentals;
+
+public class FirstTopic {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
