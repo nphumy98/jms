@@ -409,3 +409,19 @@
 2019-05-27 03:01:23,001 [Worker-32: Launching FirstTopic] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2019-05-27 03:01:23,008 [Worker-32: Launching FirstTopic] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-05-27 03:01:23,012 [Worker-32: Launching FirstTopic] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 03:03:53,078 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:03:53,079 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 03:03:53,085 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:03:53,090 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 03:09:34,570 [Worker-22: Launching QueueBrowserDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:09:34,587 [Worker-22: Launching QueueBrowserDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 03:09:34,601 [Worker-22: Launching QueueBrowserDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:09:34,612 [Worker-22: Launching QueueBrowserDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 03:09:51,097 [Worker-40: Launching QueueBrowserDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:09:51,106 [Worker-40: Launching QueueBrowserDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 03:09:51,114 [Worker-40: Launching QueueBrowserDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:09:51,120 [Worker-40: Launching QueueBrowserDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 03:11:07,896 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:11:07,904 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 03:11:07,916 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:11:07,924 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
