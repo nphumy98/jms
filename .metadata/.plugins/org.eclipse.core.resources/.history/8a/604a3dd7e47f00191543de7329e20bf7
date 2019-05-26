@@ -1,0 +1,49 @@
+package com.bharath.jms.messagestructure;
+
+import javax.jms.BytesMessage;
+import javax.jms.JMSContext;
+import javax.jms.JMSProducer;
+import javax.jms.Message;
+import javax.jms.Queue;
+import javax.jms.StreamMessage;
+import javax.jms.TextMessage;
+import javax.naming.InitialContext;
+
+import org.apache.activemq.artemis.jms.client.ActiveMQConnectionFactory;
+
+public class MessageTypesDemo {
+
+	public static void main(String[] args) throws Exception{
+		// TODO Auto-generated method stub
+		InitialContext context= new InitialContext();
+		Queue queue= (Queue) context.lookup("queue/myQueue");
+		try 
+		(
+			ActiveMQConnectionFactory cf= new ActiveMQConnectionFactory();		
+			JMSContext jmsContext= cf.createContext();
+		){
+			JMSProducer producer= jmsContext.createProducer();
+			TextMessage textMessage= jmsContext.createTextMessage("Arise Awake and stop not til the goal is reached");
+//			BytesMessage bytesMessage= jmsContext.createBytesMessage();
+//			bytesMessage.writeUTF("John");
+//			bytesMessage.writeLong(123l);
+//			producer.send(queue, bytesMessage);
+			
+			StreamMessage streamMessage= jmsContext.createStreamMessage();
+			streamMessage.writeBoolean(true);
+			streamMessage.writeFloat(2.5f);
+			producer.send(queue, streamMessage);
+
+			
+			//try to get message in 5 sec , if not then it stop
+//			BytesMessage messageReceived= (BytesMessage)jmsContext.createConsumer(queue).receive(5000);
+//			System.out.println(messageReceived.readUTF());
+//			System.out.println(messageReceived.readLong());
+			
+			StreamMessage messageReceived= (StreamMessage)jmsContext.createConsumer(queue).receive(5000);
+			System.out.println(messageReceived.readBoolean());
+			System.out.println(messageReceived.readLong());
+		}
+	}
+
+}
