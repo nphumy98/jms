@@ -1,6 +1,5 @@
 INDEX VERSION 1.131+C:\Users\MY PHU NGUYEN\Documents\jms\.metadata\.plugins\org.eclipse.jdt.core
 1240120055.index
-960764978.index
 3872537624.index
 2517282340.index
 2981354914.index

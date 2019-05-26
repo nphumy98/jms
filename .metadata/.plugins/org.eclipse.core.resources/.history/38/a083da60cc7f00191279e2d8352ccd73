@@ -1,0 +1,5 @@
+package com.bharath.jms.messagestructure;
+
+public class MessagePriority {
+
+}

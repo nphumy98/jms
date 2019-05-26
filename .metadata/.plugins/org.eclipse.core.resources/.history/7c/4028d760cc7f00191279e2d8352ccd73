@@ -14,7 +14,8 @@ public class JMSContextDemo {
 		Queue queue= (Queue) context.lookup("queue/myQueue");
 		try 
 		(
-			ActiveMQConnectionFactory cf= new ActiveMQConnectionFactory();		
+			ActiveMQConnectionFactory cf= new ActiveMQConnectionFactory();
+			
 			JMSContext jmsContext= cf.createContext();
 		){
 			jmsContext.createProducer().send(queue, "Arise Awake and stop not til the goal is reached");
