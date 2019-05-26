@@ -31,7 +31,7 @@ public class RequestReplyDemo {
 			System.out.println(messageReceived.getText());
 			
 			JMSProducer replyProducer = jmsContext.createProducer();
-			replyProducer.send(messageReceived.getJMSDestination(),"You are awesome!!");
+			replyProducer.send(messageReceived.getJMSReplyTo(),"You are awesome!!");
 			
 			JMSConsumer replyConsumer = jmsContext.createConsumer(replyQueue);
 			System.out.println(replyConsumer.receiveBody(String.class));

@@ -7,7 +7,6 @@
 <fullyQualifiedTypeName name="javax.jms.MessageProducer"/>
 <fullyQualifiedTypeName name="javax.jms.Session"/>
 <fullyQualifiedTypeName name="javax.jms.MessageConsumer"/>
-<fullyQualifiedTypeName name="javax.jms.TextMessage"/>
 <fullyQualifiedTypeName name="com.bharath.jms.jmsfundamentals.QueueBrowserDemo"/>
 <fullyQualifiedTypeName name="javax.jms.QueueBrowser"/>
 <fullyQualifiedTypeName name="java.util.Enumeration"/>
@@ -20,4 +19,5 @@
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="javax.jms.Message"/>
 <fullyQualifiedTypeName name="javax.naming.NamingException"/>
+<fullyQualifiedTypeName name="javax.jms.TextMessage"/>
 </qualifiedTypeNameHistroy>
