@@ -55,7 +55,10 @@ public class MessagePriority {
 				System.out.println(receivedMessage.getJMSPriority());
 				//System.out.println(consumer.receiveBody(String.class));
 			}
-			
+			while(true)
+			{
+				System.out.println("hehe");
+			}
 		}
 	}
 

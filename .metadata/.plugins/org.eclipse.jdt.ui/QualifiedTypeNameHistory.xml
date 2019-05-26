@@ -20,4 +20,5 @@
 <fullyQualifiedTypeName name="javax.jms.Message"/>
 <fullyQualifiedTypeName name="javax.naming.NamingException"/>
 <fullyQualifiedTypeName name="javax.jms.TextMessage"/>
+<fullyQualifiedTypeName name="javax.jms.TemporaryQueue"/>
 </qualifiedTypeNameHistroy>
