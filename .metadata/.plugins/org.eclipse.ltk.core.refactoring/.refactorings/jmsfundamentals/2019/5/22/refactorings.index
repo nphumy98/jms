@@ -2,3 +2,10 @@
 1558879240397	Delete element
 1558879318948	Delete element
 1558883032888	Copy compilation unit
+1558885733000	Copy compilation unit
+1558885804398	Extract local variable 'createProducer'
+1558885831095	Extract local variable 'createConsumer'
+1558886760801	Copy compilation unit
+1558886864411	Delete element
+1558886938761	Copy compilation unit
+1558887180104	Delete element

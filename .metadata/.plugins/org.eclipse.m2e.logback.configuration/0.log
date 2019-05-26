@@ -461,3 +461,108 @@
 2019-05-27 03:41:35,767 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2019-05-27 03:41:35,772 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-05-27 03:41:35,777 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 03:48:36,423 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:48:36,424 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 03:48:36,434 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:48:36,438 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 03:48:53,210 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:48:53,217 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 03:48:53,225 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:48:53,233 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 03:49:18,814 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:49:18,824 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 03:49:18,830 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:49:18,835 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 03:50:04,559 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:50:04,569 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 03:50:04,578 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:50:04,589 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 03:50:31,230 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:50:31,235 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 03:50:31,242 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:50:31,247 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 03:54:15,621 [Worker-59: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:54:15,631 [Worker-59: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 03:54:15,637 [Worker-59: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:54:15,641 [Worker-59: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 03:54:39,583 [Worker-59: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:54:39,592 [Worker-59: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 03:54:39,604 [Worker-59: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:54:39,617 [Worker-59: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 03:55:38,455 [Worker-43: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:55:38,467 [Worker-43: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 03:55:38,480 [Worker-43: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:55:38,491 [Worker-43: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 03:56:19,588 [Worker-58: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:56:19,597 [Worker-58: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 03:56:19,605 [Worker-58: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:56:19,609 [Worker-58: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 03:57:07,563 [Worker-62: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:57:07,574 [Worker-62: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 03:57:07,588 [Worker-62: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:57:07,597 [Worker-62: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 03:58:33,769 [Worker-67: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:58:33,782 [Worker-67: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 03:58:33,791 [Worker-67: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:58:33,796 [Worker-67: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 03:59:45,774 [Worker-63: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:59:45,784 [Worker-63: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 03:59:45,799 [Worker-63: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 03:59:45,809 [Worker-63: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 04:01:38,360 [Worker-71: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:01:38,376 [Worker-71: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 04:01:38,406 [Worker-71: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:01:38,415 [Worker-71: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 04:01:56,137 [Worker-66: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:01:56,159 [Worker-66: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 04:01:56,174 [Worker-66: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:01:56,178 [Worker-66: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 04:03:54,903 [Worker-72: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:03:54,908 [Worker-72: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 04:03:54,914 [Worker-72: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:03:54,919 [Worker-72: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 04:05:46,957 [Worker-74: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:05:46,975 [Worker-74: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 04:05:46,981 [Worker-74: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:05:46,988 [Worker-74: Launching RequestReplyDemo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 04:06:00,951 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:06:00,956 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 04:06:00,961 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:06:00,965 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 04:06:37,205 [Worker-66: Launching JMSContextDemo (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:06:37,221 [Worker-66: Launching JMSContextDemo (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 04:06:37,235 [Worker-66: Launching JMSContextDemo (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:06:37,245 [Worker-66: Launching JMSContextDemo (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 04:07:44,924 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:07:44,930 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 04:07:44,938 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:07:44,943 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 04:07:55,703 [Worker-63: Launching JMSContextDemo (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:07:55,725 [Worker-63: Launching JMSContextDemo (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 04:07:55,735 [Worker-63: Launching JMSContextDemo (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:07:55,744 [Worker-63: Launching JMSContextDemo (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 04:08:16,105 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:08:16,110 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 04:08:16,115 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:08:16,122 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 04:08:51,981 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:08:51,995 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 04:08:52,001 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:08:52,008 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 04:08:58,959 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:08:58,964 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 04:08:58,970 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:08:58,974 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 04:09:22,022 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:09:22,034 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 04:09:22,042 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:09:22,049 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 04:12:02,799 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-27 04:13:02,891 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:13:02,906 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 04:13:02,906 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:13:02,906 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
+2019-05-27 04:13:07,033 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:13:07,033 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-05-27 04:13:07,049 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-27 04:13:07,049 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\jmsfundamentals\src\test\resources
