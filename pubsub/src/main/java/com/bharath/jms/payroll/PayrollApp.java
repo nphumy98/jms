@@ -15,7 +15,7 @@ public class PayrollApp {
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
 		InitialContext context= new InitialContext();
-		Topic topic= (Topic) context.lookup("");
+		Topic topic= (Topic) context.lookup("topic/empTopic");
 		
 		try
 		(
