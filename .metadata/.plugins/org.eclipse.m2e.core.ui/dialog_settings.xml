@@ -38,6 +38,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.bharath.jms.pubsub"/>
 			<item value="com.bharath.jms.p2p"/>
 			<item value="com.bharath.jms.jmsfundamentals"/>
 		</list>
@@ -45,6 +46,7 @@
 			<item value="com.bharath.jms"/>
 		</list>
 		<list key="artifactId">
+			<item value="pubsub"/>
 			<item value="p2p"/>
 			<item value="jmsfundamentals"/>
 		</list>

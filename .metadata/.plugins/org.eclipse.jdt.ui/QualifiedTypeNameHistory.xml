@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="javax.jms.Connection"/>
-<fullyQualifiedTypeName name="javax.jms.JMSException"/>
-<fullyQualifiedTypeName name="javax.jms.Topic"/>
 <fullyQualifiedTypeName name="javax.jms.ConnectionFactory"/>
 <fullyQualifiedTypeName name="javax.jms.MessageProducer"/>
 <fullyQualifiedTypeName name="javax.jms.Session"/>
@@ -11,22 +9,25 @@
 <fullyQualifiedTypeName name="javax.jms.QueueBrowser"/>
 <fullyQualifiedTypeName name="java.util.Enumeration"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
-<fullyQualifiedTypeName name="javax.naming.NamingException"/>
 <fullyQualifiedTypeName name="javax.jms.TextMessage"/>
 <fullyQualifiedTypeName name="javax.jms.TemporaryQueue"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="java.util.Map"/>
-<fullyQualifiedTypeName name="javax.jms.Message"/>
 <fullyQualifiedTypeName name="javax.jms.BytesMessage"/>
 <fullyQualifiedTypeName name="javax.jms.StreamMessage"/>
-<fullyQualifiedTypeName name="java.io.Serializable"/>
-<fullyQualifiedTypeName name="javax.naming.InitialContext"/>
 <fullyQualifiedTypeName name="org.apache.activemq.artemis.jms.client.ActiveMQConnectionFactory"/>
 <fullyQualifiedTypeName name="javax.jms.JMSContext"/>
 <fullyQualifiedTypeName name="javax.jms.Queue"/>
 <fullyQualifiedTypeName name="javax.jms.ObjectMessage"/>
 <fullyQualifiedTypeName name="com.bharath.jms.hm.model.Patient"/>
 <fullyQualifiedTypeName name="javax.jms.JMSProducer"/>
-<fullyQualifiedTypeName name="javax.jms.JMSConsumer"/>
 <fullyQualifiedTypeName name="javax.jms.MapMessage"/>
+<fullyQualifiedTypeName name="javax.naming.InitialContext"/>
+<fullyQualifiedTypeName name="javax.jms.Topic"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="javax.jms.JMSConsumer"/>
+<fullyQualifiedTypeName name="com.bharath.jms.hr.Employee"/>
+<fullyQualifiedTypeName name="javax.jms.Message"/>
+<fullyQualifiedTypeName name="javax.jms.JMSException"/>
+<fullyQualifiedTypeName name="javax.naming.NamingException"/>
 </qualifiedTypeNameHistroy>
