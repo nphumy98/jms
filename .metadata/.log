@@ -6913,3 +6913,63 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.ui 2 2 2019-05-28 02:43:41.552
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 03:06:40.020
+!MESSAGE Preparing classpath changed notification pubsub
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 03:06:40.064
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 03:06:40.090
+!MESSAGE classpath=23 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 03:06:40.099
+!MESSAGE executing callback sts4.classpath.ISyDOCKU pubsub false 23
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 03:06:40.124
+!MESSAGE executing callback sts4.classpath.ISyDOCKU SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 03:07:10.462
+!MESSAGE Preparing classpath changed notification pubsub
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 03:07:10.515
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 03:07:10.525
+!MESSAGE classpath=24 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 03:07:10.536
+!MESSAGE executing callback sts4.classpath.ISyDOCKU pubsub false 24
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 03:07:10.673
+!MESSAGE executing callback sts4.classpath.ISyDOCKU SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 03:07:55.116
+!MESSAGE Preparing classpath changed notification pubsub
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 03:07:55.129
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 03:07:55.176
+!MESSAGE classpath=24 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 03:07:55.201
+!MESSAGE executing callback sts4.classpath.ISyDOCKU pubsub false 24
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 03:07:55.214
+!MESSAGE executing callback sts4.classpath.ISyDOCKU SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 03:10:37.076
+!MESSAGE Preparing classpath changed notification pubsub
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 03:10:37.145
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 03:10:37.176
+!MESSAGE classpath=24 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 03:10:37.196
+!MESSAGE executing callback sts4.classpath.ISyDOCKU pubsub false 24
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 03:10:37.233
+!MESSAGE executing callback sts4.classpath.ISyDOCKU SUCCESS [done]
