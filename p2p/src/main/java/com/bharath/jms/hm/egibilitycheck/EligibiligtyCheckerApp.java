@@ -25,12 +25,19 @@ public class EligibiligtyCheckerApp {
 				JMSContext jmsContext= cf.createContext();
 		)
 		{
-			JMSConsumer consumer= jmsContext.createConsumer(requestQueue);
-			consumer.setMessageListener(new EgibilityCheckListener());
+			JMSConsumer consumer1= jmsContext.createConsumer(requestQueue);
+			JMSConsumer consumer2= jmsContext.createConsumer(requestQueue);
+			//consumer.setMessageListener(new EgibilityCheckListener());
 			
+			//5 times loop, total 10 messages are consumed
+			for(int i=1;i<=10;i+=2)
+			{
+				System.out.println("Consumer1: "+consumer1.receive());
+				System.out.println("Consumer2: "+consumer2.receive());
+			}
 			
 			//see lecture 6.48 he explain
-			Thread.sleep(10000);
+			//Thread.sleep(10000);
 		}
 	}
 
