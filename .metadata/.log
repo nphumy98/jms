@@ -6697,3 +6697,106 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-27 23:51:36.433
 !MESSAGE executing callback sts4.classpath.LoBpwXoC SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 01:53:46.911
+!MESSAGE Preparing classpath changed notification p2p
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 01:53:46.987
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 01:53:47.026
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 01:53:47.042
+!MESSAGE executing callback sts4.classpath.LoBpwXoC p2p false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 01:53:47.139
+!MESSAGE executing callback sts4.classpath.LoBpwXoC SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 01:53:47.313
+!MESSAGE Preparing classpath changed notification p2p
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 01:53:47.323
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 01:53:47.335
+!MESSAGE classpath=23 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 01:53:47.347
+!MESSAGE executing callback sts4.classpath.LoBpwXoC p2p false 23
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 01:53:47.367
+!MESSAGE executing callback sts4.classpath.LoBpwXoC SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 01:55:22.964
+!MESSAGE Preparing classpath changed notification p2p
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 01:55:23.015
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 01:55:23.036
+!MESSAGE classpath=23 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 01:55:23.059
+!MESSAGE executing callback sts4.classpath.LoBpwXoC p2p false 23
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 01:55:23.083
+!MESSAGE executing callback sts4.classpath.LoBpwXoC SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 01:57:14.164
+!MESSAGE Preparing classpath changed notification p2p
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 01:57:14.211
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 01:57:14.227
+!MESSAGE classpath=24 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 01:57:14.241
+!MESSAGE executing callback sts4.classpath.LoBpwXoC p2p false 24
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 01:57:14.261
+!MESSAGE executing callback sts4.classpath.LoBpwXoC SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 02:04:25.898
+!MESSAGE Preparing classpath changed notification p2p
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 02:04:25.924
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 02:04:25.937
+!MESSAGE classpath=24 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 02:04:25.972
+!MESSAGE executing callback sts4.classpath.LoBpwXoC p2p false 24
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 02:04:26.040
+!MESSAGE executing callback sts4.classpath.LoBpwXoC SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 02:04:43.826
+!MESSAGE Preparing classpath changed notification p2p
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 02:04:43.850
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 02:04:43.868
+!MESSAGE classpath=24 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 02:04:43.890
+!MESSAGE executing callback sts4.classpath.LoBpwXoC p2p false 24
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-05-28 02:04:43.916
+!MESSAGE executing callback sts4.classpath.LoBpwXoC SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 4 0 2019-05-28 02:07:59.755
+!MESSAGE 
+!STACK 0
+java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.reportGet(Unknown Source)
+	at java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at org.eclipse.lsp4e.operations.hover.LSBasedHover.getHoverInfo(LSBasedHover.java:105)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:43)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
