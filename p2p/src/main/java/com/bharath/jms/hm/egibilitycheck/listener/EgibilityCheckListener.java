@@ -37,6 +37,8 @@ public class EgibilityCheckListener implements MessageListener {
 			
 			if(insuranceProvider.equals("Blue Cross Blue Shield")||insuranceProvider.equals("United Health"))
 			{
+				System.out.println("Patient copay is: " +patient.getCopay());
+				System.out.println("Amount to be paid: " +patient.getAmountToBePayed());
 				if (patient.getCopay()<40 && patient.getAmountToBePayed()<1000)
 				{
 					replyMessage.setBoolean("eligible", true);

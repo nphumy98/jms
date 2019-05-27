@@ -995,3 +995,16 @@
 2019-05-28 02:35:14,161 [Worker-38: Launching EligibiligtyCheckerApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\p2p\src\main\resources
 2019-05-28 02:35:14,173 [Worker-38: Launching EligibiligtyCheckerApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-05-28 02:35:14,173 [Worker-38: Launching EligibiligtyCheckerApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\p2p\src\test\resources
+2019-05-28 02:39:38,592 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 02:39:38,592 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\p2p\src\main\resources
+2019-05-28 02:39:38,593 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 02:39:38,593 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\p2p\src\test\resources
+2019-05-28 02:39:49,116 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 02:39:49,125 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\p2p\src\main\resources
+2019-05-28 02:39:49,135 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 02:39:49,135 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\p2p\src\test\resources
+2019-05-28 02:43:16,997 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-28 02:44:22,522 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 02:44:22,523 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\p2p\src\main\resources
+2019-05-28 02:44:22,526 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 02:44:22,527 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\p2p\src\test\resources

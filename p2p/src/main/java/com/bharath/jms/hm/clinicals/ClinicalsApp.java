@@ -34,7 +34,7 @@ public class ClinicalsApp {
 			patient.setId(123);
 			patient.setName("Bob");
 			patient.setInsuranceProvider("Blue Cross Blue Shield");
-			patient.setCopay(30d);
+			patient.setCopay(100d);
 			patient.setAmountToBePayed(500d);
 			objectMessage.setObject(patient);
 			
