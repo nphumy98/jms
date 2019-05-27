@@ -28,6 +28,9 @@ public class EligibiligtyCheckerApp {
 			JMSConsumer consumer= jmsContext.createConsumer(requestQueue);
 			consumer.setMessageListener(new EgibilityCheckListener());
 			
+			
+			//see lecture 6.48 he explain
+			Thread.sleep(10000);
 		}
 	}
 

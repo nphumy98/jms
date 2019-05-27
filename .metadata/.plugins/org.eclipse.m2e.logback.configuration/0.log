@@ -987,3 +987,11 @@
 2019-05-28 02:19:55,073 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\p2p\src\main\resources
 2019-05-28 02:19:55,078 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-05-28 02:19:55,078 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\p2p\src\test\resources
+2019-05-28 02:28:43,436 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 02:28:43,437 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\p2p\src\main\resources
+2019-05-28 02:28:43,439 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 02:28:43,440 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\p2p\src\test\resources
+2019-05-28 02:35:14,149 [Worker-38: Launching EligibiligtyCheckerApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 02:35:14,161 [Worker-38: Launching EligibiligtyCheckerApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\p2p\src\main\resources
+2019-05-28 02:35:14,173 [Worker-38: Launching EligibiligtyCheckerApp] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 02:35:14,173 [Worker-38: Launching EligibiligtyCheckerApp] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\MY PHU NGUYEN\Documents\jms\p2p\src\test\resources
