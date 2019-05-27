@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="jmsprojects/guaranteedmessaging/src/main/java"/>
+	<classpathentry kind="src" path="jmsprojects/jmsfundamentals/src/main/java"/>
+	<classpathentry kind="src" path="jmsprojects/messagefiltering/src/main/java"/>
+	<classpathentry kind="src" path="jmsprojects/p2p/src/main/java"/>
+	<classpathentry kind="src" path="jmsprojects/pubsub/src/main/java"/>
+	<classpathentry kind="output" path="jmsprojects/guaranteedmessaging/target/classes"/>
+</classpath>

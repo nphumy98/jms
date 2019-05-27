@@ -31,26 +31,25 @@ public class RequestReplyDemo {
 			message.setJMSReplyTo(replyQueue);
 			message.setJMSCorrelationID(message.getJMSMessageID());
 			producer.send(queue,message );
-			System.out.println(message.getJMSMessageID());
+			System.out.println("message ID:"+message.getJMSMessageID());
 			
 			Map<String, TextMessage> requestMessages=new HashMap<>();
 			requestMessages.put(message.getJMSMessageID(), message);
 			
 			JMSConsumer consumer = jmsContext.createConsumer(queue);
 			TextMessage messageReceived= (TextMessage) consumer.receive();
-			System.out.println(messageReceived.getText());
-			System.out.println(messageReceived.getJMSMessageID());
-			System.out.println(messageReceived.getJMSCorrelationID());
+			System.out.println("messageReceived text:"+messageReceived.getText());
+			System.out.println("messageReceived ID:"+messageReceived.getJMSMessageID());
 			
 			JMSProducer replyProducer = jmsContext.createProducer();
 			TextMessage replyMessage=jmsContext.createTextMessage("You are awesome!!");
-			replyMessage.setJMSCorrelationID(message.getJMSMessageID());
+			replyMessage.setJMSCorrelationID(messageReceived.getJMSMessageID());
+			
 			replyProducer.send(messageReceived.getJMSReplyTo(),replyMessage);
 
 			JMSConsumer replyConsumer = jmsContext.createConsumer(replyQueue);
 			//System.out.println(replyConsumer.receiveBody(String.class));
 			TextMessage replyReceived= (TextMessage) replyConsumer.receive();
-			System.out.println(replyReceived.getJMSCorrelationID());
 			System.out.println(requestMessages.get(replyReceived.getJMSCorrelationID()).getText());
 			
 		}
